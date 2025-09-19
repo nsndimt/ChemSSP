@@ -1,6 +1,4 @@
-Code and Data For Rapid Adaptation of Chemical Named Entity Recognition using Few-Shot Learning and LLM Distillation.
-
-This repo is still under construction.
+# Rapid Adaptation of Chemical Named Entity Recognition using Few-Shot Learning and LLM Distillation.
 
 ### Installation required Python package
 Install [miniconda3](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh) and then install required package in a new conda environment
