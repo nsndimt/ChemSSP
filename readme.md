@@ -1,5 +1,7 @@
 # Rapid Adaptation of Chemical Named Entity Recognition using Few-Shot Learning and LLM Distillation.
 
+JCIM paper link: [https://pubs.acs.org/doi/10.1021/acs.jcim.5c00248](https://pubs.acs.org/doi/10.1021/acs.jcim.5c00248)
+
 ### Installation required Python package
 Install [miniconda3](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh) and then install required package in a new conda environment
 ```
